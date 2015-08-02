@@ -1,0 +1,54 @@
+[class^="icon-extra-"],
+[class*=" icon-extra-"] {
+  display: inline-block;
+  width: 14px;
+  height: 14px;
+  margin-top: 1px;
+  *margin-right: .3em;
+  line-height: 14px;
+  vertical-align: text-top;
+  background-position: 0 0;
+  background-repeat: no-repeat;
+  background-size: auto 14px;
+}
+
+.icon-extra-glass {
+  background-image: url("../img/glyphicons/glyphicons_000_glass.png");
+}
+
+.icon-extra-girl {
+  background-image: url("../img/glyphicons/glyphicons_004_girl.png");
+}
+
+.icon-extra-parents {
+  background-image: url("../img/glyphicons/glyphicons_024_parents.png");
+}
+
+.icon-extra-old-man {
+  background-image: url("../img/glyphicons/glyphicons_034_old_man.png");
+}
+
+.icon-extra-woman {
+  background-image: url("../img/glyphicons/glyphicons_035_woman.png");
+}
+
+.icon-extra-group {
+  background-image: url("../img/glyphicons/glyphicons_043_group.png");
+}
+
+.icon-extra-stroller {
+  background-image: url("../img/glyphicons/glyphicons_075_stroller.png");
+}
+
+.icon-extra-male {
+  background-image: url("../img/glyphicons/glyphicons_246_male.png");
+}
+
+.icon-extra-female {
+  background-image: url("../img/glyphicons/glyphicons_247_female.png");
+}
+
+.icon-extra-tie {
+  background-image: url("../img/glyphicons/glyphicons_324_tie.png");
+}
+

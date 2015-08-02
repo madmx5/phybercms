@@ -1,0 +1,9 @@
+{
+	"require": {
+		"phpunit/phpunit": "3.7.*",
+        "twig/twig": "1.*",
+		"ccampbell/chromephp": "*",
+		"nick4fake/jsmin": "dev-master",
+		"natxet/CssMin": "dev-master"
+	}
+}

@@ -1,0 +1,86 @@
+body {
+  background: url('../img/vintage_speckles.png') repeat;
+  font-family: 'Oxygen', sans-serif;
+}
+
+h1, h2, h3 {
+  color: #4d4044;
+}
+
+.story {
+  text-align: justify;
+}
+
+#masthead {
+  text-align: center;
+}
+
+#masthead a,
+#masthead a:active,
+#masthead a:hover,
+#masthead a:visited {
+  color: #bd7963;
+  font-family: 'Oleo Script Swash Caps', cursive;
+  font-size: 5em;
+  font-weight: bold;
+  line-height: 1.2em;
+  text-decoration: none;
+  text-shadow: 1px 1px 2px #444444;
+}
+
+#masttale {
+  margin: -8px 0 8px;
+  text-align: center;
+}
+
+header .navbar {
+  margin-top: 27px;
+}
+
+header .brand,
+header .brand:active,
+header .brand:hover,
+header .brand:visited,
+header .navbar-text,
+header .navbar-text:active,
+header .navbar-text:hover,
+header .navbar-text:visited {
+  color: #bd7963;
+  font-weight: bold;
+}
+
+footer {
+  border-top: 1px solid #cccccc;
+  margin-top: 20px;
+  padding: 10px 0;
+}
+
+#mc_embed_signup form {
+  margin-bottom: 0;
+}
+
+#engagementhead img {
+  display: block;
+  margin-bottom: 2px;
+}
+
+#engagement-photos p {
+  margin-top: -10px;
+}
+
+@media (max-width: 979px) and (min-width: 768px) {
+  .navbar {
+    margin-left: 20px;
+  }
+}
+
+@media (max-width: 1199px) {
+  .navbar {
+    margin-bottom: 0;
+  }
+
+  .navbar .btn-navbar {
+    margin-right: 0;
+  }
+}
+
